@@ -42,5 +42,6 @@ Windowsで防災速報をできるだけ早くお知らせし、地震による�
 現在、「防災科学技術研究所」の方に利用を許可していただけないかお問合せ中です。<br>
 
 # 公式SNS・サイト
-[公式サイト](https://disnana.com/home-2nd)<br>
+[公式サイト](https://nanaharu.net/)<br>
+[運営公式サイト](https://disnana.com/home-2nd)<br>
 [公式Discord](https://discord.gg/CCMaPrNNAK)
